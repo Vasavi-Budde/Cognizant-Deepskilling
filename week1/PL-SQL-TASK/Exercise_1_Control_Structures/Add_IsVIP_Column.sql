@@ -1,0 +1,2 @@
+ALTER TABLE Customers
+ADD IsVIP VARCHAR2(5);
